@@ -1,0 +1,12 @@
+2019-03-05
+
+Inserting Movie Script: 			Starting Time: 1551826517821ms			End Time: 1551826518190ms			Time Taken: 369ms
+
+InOrder Traversal: 			Starting Time: 1551826519377ms			End Time: 1551826520975ms			Time Taken: 1598ms
+
+PostOrder Traversal: 			Starting Time: 1551826521678ms			End Time: 1551826523000ms			Time Taken: 1322ms
+
+Inserting Movie Script: 			Starting Time: 1551826529797ms			End Time: 1551826530334ms			Time Taken: 537ms
+
+Searching for word: 			Starting Time: 1551826532975ms			End Time: 1551826532978ms			Time Taken: 3ms
+
